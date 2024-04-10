@@ -15,7 +15,7 @@ public class RegisterPageObject extends AbstractPage {
     }
 
     public void inputToEmailTextbox(String emailValue) {
-        //waitToElementVisible(driver, RegisterPageUI.EMAIL_TEXTBOX);
+        waitToElementVisible(driver, RegisterPageUI.EMAIL_TEXTBOX);
         sendkeyToElement(driver, RegisterPageUI.EMAIL_TEXTBOX, emailValue);
     }
 

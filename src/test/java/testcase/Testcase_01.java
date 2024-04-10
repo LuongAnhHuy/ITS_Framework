@@ -29,6 +29,7 @@ public class Testcase_01 extends BaseTest {
     public void beforeClass(String browserName) {
         driver = getBrowserDriver(browserName);
         Log.info("Pre-conditions - Step 01: Open browser + Navigate to app url");
+        openUrl(driver,"https://demo.guru99.com/v4/");
         loginPage = new LoginPageObject(driver);
     }
 
