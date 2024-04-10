@@ -132,7 +132,7 @@ public class Testcase_01 extends BaseTest {
 
         loginPage = new LoginPageObject(driver);
 
-        Log.info("LogOut - Step 02: Verify Login Form Displayed");
+        Log.info("LogOut - Step 03: Verify Login Form Displayed");
         Assert.assertTrue(loginPage.isLoginFormDisplayed());
 
     }
