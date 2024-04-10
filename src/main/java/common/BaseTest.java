@@ -49,14 +49,14 @@ public class BaseTest extends AbstractPage {
                 throw new RuntimeException("Please enter the correct Browser name!!!");
         }
 
-        maximizeBrowser(driver);
+        maximizeBrowsers(driver);
         implicitWaitBrowser(driver);
         return driver;
     }
 
 
     protected WebDriver closedBrowser() {
-        closeBrowser(driver);
+        closeBrowsers(driver);
         return driver;
     }
 

@@ -34,11 +34,11 @@ public abstract class AbstractPage {
 
 
     // define ra biến url, => tránh việc fix cứng url làm sai ý nghĩa của commons
-    public void maximizeBrowser(WebDriver driver){
+    public void maximizeBrowsers(WebDriver driver){
         driver.manage().window().maximize();
     }
 
-    public void closeBrowser(WebDriver driver) {
+    public void closeBrowsers(WebDriver driver) {
         driver.quit();
     }
     public void openUrl (WebDriver driver, String url) {
