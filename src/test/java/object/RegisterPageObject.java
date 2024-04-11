@@ -1,8 +1,8 @@
 package object;
 
+import ui.RegisterPageUI;
 import common.AbstractPage;
 import org.openqa.selenium.WebDriver;
-import ui.RegisterPageUI;
 
 //import commons.AbstractPage;
 //import pageUI.RegisterPageUI;

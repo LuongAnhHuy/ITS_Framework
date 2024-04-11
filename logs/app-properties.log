@@ -1,25 +1,33 @@
-[INFO ] 11-04-2024 09:59:21 [main] Log - Pre-conditions - Step 01: Open browser + Navigate to app url
-[INFO ] 11-04-2024 09:59:24 [main] Log - Register - Step 01: Get Login Page Url
-[INFO ] 11-04-2024 09:59:24 [main] Log - Register - Step 02: Click to 'here' link
-[INFO ] 11-04-2024 09:59:24 [main] Log - Register - Step 03: Input to Email textbox
-[INFO ] 11-04-2024 09:59:25 [main] Log - Register - Step 04: Click to Submit button
-[INFO ] 11-04-2024 09:59:27 [main] Log - Register - Step 05: Get UserID/ Password information
-[INFO ] 11-04-2024 09:59:27 [main] Log - Login - Step 01: Open Login Page
-[INFO ] 11-04-2024 09:59:28 [main] Log - Login - Step 02: Input to UserID/ Password textbox
-[INFO ] 11-04-2024 09:59:28 [main] Log - Login - Step 03: Click to Login button
-[INFO ] 11-04-2024 09:59:29 [main] Log - Login - Step 04: Navigate to Home Page
-[INFO ] 11-04-2024 09:59:29 [main] Log - NewCustomer - Step 01: Open new Customer Page
-[INFO ] 11-04-2024 09:59:30 [main] Log - NewCustomer - Step 02: Input to Name textbox 
-[INFO ] 11-04-2024 09:59:30 [main] Log - NewCustomer - Step 03: Input to Date of Birth textbox
-[INFO ] 11-04-2024 09:59:30 [main] Log - NewCustomer - Step 04: Input to Address area
-[INFO ] 11-04-2024 09:59:30 [main] Log - NewCustomer - Step 05: Input to City textbox
-[INFO ] 11-04-2024 09:59:30 [main] Log - NewCustomer - Step 06: Input to State textbox
-[INFO ] 11-04-2024 09:59:31 [main] Log - NewCustomer - Step 07: Input to Pin textbox
-[INFO ] 11-04-2024 09:59:31 [main] Log - NewCustomer - Step 08: Input to Phone textbox
-[INFO ] 11-04-2024 09:59:31 [main] Log - NewCustomer - Step 09: Input to Email textbox
-[INFO ] 11-04-2024 09:59:31 [main] Log - NewCustomer - Step 10: Input to Password textbox
-[INFO ] 11-04-2024 09:59:31 [main] Log - NewCustomer - Step 11: Click to Submit button
-[INFO ] 11-04-2024 09:59:32 [main] Log - NewCustomer - Step 12: Verify success message
-[INFO ] 11-04-2024 09:59:32 [main] Log - LogOut - Step 01: Click to Logout link
-[INFO ] 11-04-2024 09:59:33 [main] Log - LogOut - Step 02: Accept Alert
-[INFO ] 11-04-2024 09:59:33 [main] Log - LogOut - Step 03: Verify Login Form Displayed
+[INFO ] 11-04-2024 12:11:33 [main] Log - Pre-conditions - Step 01: Open browser + Navigate to app url
+[INFO ] 11-04-2024 12:11:36 [main] Log - Register - Step 01: Get Login Page Url
+[INFO ] 11-04-2024 12:11:36 [main] Log - Register - Step 02: Click to 'here' link
+[INFO ] 11-04-2024 12:11:37 [main] Log - Register - Step 03: Input to Email textbox
+[INFO ] 11-04-2024 12:11:37 [main] Log - Login - Step 01: Open Login Page
+[INFO ] 11-04-2024 12:11:38 [main] Log - Login - Step 02: Input to UserID/ Password textbox
+[INFO ] 11-04-2024 12:11:38 [main] Log - NewCustomer - Step 01: Open new Customer Page
+[INFO ] 11-04-2024 12:11:38 [main] Log - LogOut - Step 01: Click to Logout link
+[INFO ] 11-04-2024 12:23:34 [main] Log - Pre-conditions - Step 01: Open browser + Navigate to app url
+[INFO ] 11-04-2024 12:23:37 [main] Log - Register - Step 01: Get Login Page Url
+[INFO ] 11-04-2024 12:23:37 [main] Log - Register - Step 02: Click to 'here' link
+[INFO ] 11-04-2024 12:23:37 [main] Log - Register - Step 03: Input to Email textbox
+[INFO ] 11-04-2024 12:23:38 [main] Log - Register - Step 04: Click to Submit button
+[INFO ] 11-04-2024 12:23:41 [main] Log - Register - Step 05: Get UserID/ Password information
+[INFO ] 11-04-2024 12:23:41 [main] Log - Login - Step 01: Open Login Page
+[INFO ] 11-04-2024 12:23:42 [main] Log - Login - Step 02: Input to UserID/ Password textbox
+[INFO ] 11-04-2024 12:23:42 [main] Log - Login - Step 03: Click to Login button
+[INFO ] 11-04-2024 12:23:43 [main] Log - Login - Step 04: Navigate to Home Page
+[INFO ] 11-04-2024 12:23:43 [main] Log - NewCustomer - Step 01: Open new Customer Page
+[INFO ] 11-04-2024 12:23:43 [main] Log - NewCustomer - Step 02: Input to Name textbox 
+[INFO ] 11-04-2024 12:23:44 [main] Log - NewCustomer - Step 03: Input to Date of Birth textbox
+[INFO ] 11-04-2024 12:23:44 [main] Log - NewCustomer - Step 04: Input to Address area
+[INFO ] 11-04-2024 12:23:44 [main] Log - NewCustomer - Step 05: Input to City textbox
+[INFO ] 11-04-2024 12:23:44 [main] Log - NewCustomer - Step 06: Input to State textbox
+[INFO ] 11-04-2024 12:23:44 [main] Log - NewCustomer - Step 07: Input to Pin textbox
+[INFO ] 11-04-2024 12:23:44 [main] Log - NewCustomer - Step 08: Input to Phone textbox
+[INFO ] 11-04-2024 12:23:44 [main] Log - NewCustomer - Step 09: Input to Email textbox
+[INFO ] 11-04-2024 12:23:44 [main] Log - NewCustomer - Step 10: Input to Password textbox
+[INFO ] 11-04-2024 12:23:45 [main] Log - NewCustomer - Step 11: Click to Submit button
+[INFO ] 11-04-2024 12:23:46 [main] Log - NewCustomer - Step 12: Verify success message
+[INFO ] 11-04-2024 12:23:46 [main] Log - LogOut - Step 01: Click to Logout link
+[INFO ] 11-04-2024 12:23:46 [main] Log - LogOut - Step 02: Accept Alert
+[INFO ] 11-04-2024 12:23:46 [main] Log - LogOut - Step 03: Verify Login Form Displayed

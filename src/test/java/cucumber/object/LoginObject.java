@@ -1,4 +1,4 @@
-package cucumber;
+package cucumber.object;
 
 import common.AbstractPage;
 import io.cucumber.java.en.And;

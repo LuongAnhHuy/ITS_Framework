@@ -1,8 +1,8 @@
 package object;
 
+import ui.NewCustomerPageUI;
 import common.AbstractPage;
 import org.openqa.selenium.WebDriver;
-import ui.NewCustomerPageUI;
 
 //import commons.AbstractPage;
 //import pageUI.NewCustomerPageUI;

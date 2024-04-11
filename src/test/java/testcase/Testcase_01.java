@@ -1,11 +1,10 @@
 package testcase;
 
-import common.BaseTest;
 import object.LoginPageObject;
 import object.ManagerPageObject;
 import object.NewCustomerPageObject;
 import object.RegisterPageObject;
-import org.apache.hc.core5.reactor.Command;
+import common.BaseTest;
 import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
 import org.testng.annotations.AfterClass;

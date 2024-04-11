@@ -1,9 +1,9 @@
 package object;
 
-import common.AbstractPage;
-import org.openqa.selenium.WebDriver;
 import ui.LoginPageUI;
 import ui.ManagerPageUI;
+import common.AbstractPage;
+import org.openqa.selenium.WebDriver;
 
 //import commons.AbstractPage;
 //import pageUI.LoginPageUI;
