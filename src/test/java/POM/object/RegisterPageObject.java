@@ -1,6 +1,6 @@
-package object;
+package POM.object;
 
-import ui.RegisterPageUI;
+import POM.ui.RegisterPageUI;
 import common.AbstractPage;
 import org.openqa.selenium.WebDriver;
 

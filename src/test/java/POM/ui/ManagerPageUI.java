@@ -1,4 +1,4 @@
-package ui;
+package POM.ui;
 
 public class ManagerPageUI {
     public static final String WELCOME_TEXT = "//marquee[@class='heading3']";

@@ -4,7 +4,7 @@
     <test name="Run on Chrome">
         <parameter name="browser" value="chrome"/>
         <classes>
-            <class name="testcase.Testcase_01"></class>
+            <class name="POM.testcase.Testcase_01"></class>
         </classes>
     </test>
 

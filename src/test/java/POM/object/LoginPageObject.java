@@ -1,7 +1,7 @@
-package object;
+package POM.object;
 
-import ui.LoginPageUI;
-import ui.ManagerPageUI;
+import POM.ui.LoginPageUI;
+import POM.ui.ManagerPageUI;
 import common.AbstractPage;
 import org.openqa.selenium.WebDriver;
 

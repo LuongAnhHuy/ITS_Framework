@@ -1,9 +1,9 @@
-package testcase;
+package POM.testcase;
 
-import object.LoginPageObject;
-import object.ManagerPageObject;
-import object.NewCustomerPageObject;
-import object.RegisterPageObject;
+import POM.object.ManagerPageObject;
+import POM.object.RegisterPageObject;
+import POM.object.LoginPageObject;
+import POM.object.NewCustomerPageObject;
 import common.BaseTest;
 import org.openqa.selenium.WebDriver;
 import org.testng.Assert;

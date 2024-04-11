@@ -1,6 +1,6 @@
-package object;
+package POM.object;
 
-import ui.NewCustomerPageUI;
+import POM.ui.NewCustomerPageUI;
 import common.AbstractPage;
 import org.openqa.selenium.WebDriver;
 

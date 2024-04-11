@@ -1,4 +1,4 @@
-package ui;
+package POM.ui;
 
 public class NewCustomerPageUI {
     public static final String CUSTOMER_NAME_TEXTBOX = "//input[@name='name']";
